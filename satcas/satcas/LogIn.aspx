@@ -12,7 +12,7 @@
                 <div class="row">
                     <div class="col-md-7 col-md-offset-5">
                         <asp:Label ID="Label1" runat="server" Text="Login" Font-Bold="True" Font-Size="X-Large"></asp:Label>
-                        S<br /><br />
+                        <br /><br />
                     </div>
                 </div>
                 <br />
